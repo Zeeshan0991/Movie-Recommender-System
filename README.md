@@ -51,12 +51,12 @@ This is a web application that recommends the top 5 similar movies based on the 
 This project is licensed under the MIT License - see the (LICENSE.txt) file for details.
 
 # Directory Structure
+
 Movie-Recommender-System/
-│
-├── app.py               # Main application file
-├── movies_dict.pkl      # Pickle file containing movie data
-├── similarity.pkl       # Pickle file containing the similarity matrix
-├── README.md            # Project README file
-├── LICENSE.txt          # License file
-└── requirements.txt     # Dependencies file
+├── app.py
+├── movies_dict.pkl
+├── similarity.pkl
+├── README.md
+├── LICENSE.txt
+└── requirements.txt
 
